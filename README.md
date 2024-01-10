@@ -1,1 +1,1 @@
-Experimental attempt to improve the LegionSolver repository by using an implementation of the AlphaGo architecture. Training is very slow and worse than existing algorithms so project will be discontinued.
+Experimental attempt to improve the LegionSolver repository by using an implementation of the AlphaGo architecture.
